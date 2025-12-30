@@ -1,6 +1,5 @@
-# test_rep
-print("hello")
-print ("1111111")
-# ddddd rr rr
-#dsfsdfdsfds 1 1 новое изменение  еще одно 23142134234234324234234234
-#bpvtytybz CON-1
+<<<<<<< HEAD:README.py
+# test_rep 
+# Подчистил новый код
+print("Новая версия")
+>>>>>>> bd51e5d0440f960d2dda8ba6247484dfb27cefdd:my_cod.py
